@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\msi-nb\documents\visual studio 2015\projects\physicsengine\physicsengine\window.h(20): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\msi-nb\documents\visual studio 2015\projects\physicsengine\physicsengine\main.cpp(84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\msi-nb\documents\visual studio 2015\projects\physicsengine\physicsengine\main.cpp(85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\msi-nb\documents\visual studio 2015\projects\physicsengine\physicsengine\main.cpp(88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\msi-nb\documents\visual studio 2015\projects\physicsengine\physicsengine\main.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\msi-nb\documents\visual studio 2015\projects\physicsengine\physicsengine\main.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\msi-nb\documents\visual studio 2015\projects\physicsengine\physicsengine\main.cpp(275): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\msi-nb\documents\visual studio 2015\projects\physicsengine\physicsengine\main.cpp(287): warning C4018: '<': signed/unsigned mismatch
+c:\users\msi-nb\documents\visual studio 2015\projects\physicsengine\physicsengine\main.cpp(290): warning C4018: '<': signed/unsigned mismatch
+c:\users\msi-nb\documents\visual studio 2015\projects\physicsengine\physicsengine\main.cpp(294): warning C4018: '<': signed/unsigned mismatch
+  PhysicsEngine.vcxproj -> C:\Users\msi-nb\documents\visual studio 2015\Projects\PhysicsEngine\Debug\PhysicsEngine.exe
+  PhysicsEngine.vcxproj -> C:\Users\msi-nb\documents\visual studio 2015\Projects\PhysicsEngine\Debug\PhysicsEngine.pdb (Full PDB)
