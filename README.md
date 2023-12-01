@@ -1,10 +1,10 @@
 # PhysicsEngine
 Physics Engine with OpenGL(C++)
 
--Sphere-Sphere, Sphere-Cube, Cube-Cube Collision Detections.
+-Sphere-Sphere, Sphere-Cube, Cube-Cube Collision Detection.
 -Gravity and Numerical Integrator(Runge Kutta Integration).
--Linear and Rotational Collision Responses.
--Drawing Sphere-Cube Meshes.
+-Linear and Rotational Collision Response.
+-Drawing Sphere-Cube Mesh.
 -Skybox.
 -Directional Light.
 
